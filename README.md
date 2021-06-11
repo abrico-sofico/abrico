@@ -1,2 +1,2 @@
 # abri
-https://abricosofico.github.io/abri-co/
+https://abrico-sofico.github.io/abrico/
